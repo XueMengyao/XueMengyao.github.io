@@ -1,2 +1,2 @@
 # XueMengyao.github.io
-blog of XueMengyao
+薛梦瑶的博客
