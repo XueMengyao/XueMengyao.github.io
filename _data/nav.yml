@@ -2,7 +2,7 @@
   link: "contact"
 
 - name: "Resume"
-  link: "resume"
+  link: "resume.pdf"
 
 - name: "About"
-  link: "about"
+  link: "/researcher/"
