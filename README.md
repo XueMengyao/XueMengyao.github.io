@@ -1,13 +1,3 @@
-# Researcher
-
-### [Demo Website](https://ankitsultana.me/researcher)
-
-A clean, single column, monospace resume template built for jekyll
-
-### Installation
-
-Simply fork the repository and edit away.
-
 ### Customization
 
 * You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
@@ -29,7 +19,3 @@ Simply fork the repository and edit away.
 ```
 
 **Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
-
-### License
-
-[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
