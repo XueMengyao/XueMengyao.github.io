@@ -1,0 +1,11 @@
+title: blog of xuemengyao
+url: "http://xuemengyao.com"
+baseurl: "/researcher"
+
+markdown: kramdown
+
+tracking_id: #UA-82676305-4
+
+sass:
+    style: compressed
+    sass_dir: _sass
