@@ -1,6 +1,6 @@
 title: blog of xuemengyao
-url: "http://xuemengyao"
-baseurl: "#"
+url: "http://xuemengyao.com"
+baseurl: "/researcher"
 
 markdown: kramdown
 
