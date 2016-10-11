@@ -1,6 +1,6 @@
 ---
 layout: default
-is_contact: true
+is_about: true
 ---
 
 * Email: i@xuemengyao.com

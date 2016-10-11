@@ -1,6 +1,6 @@
 ---
 layout: default
-is_contact: true
+is_resume: true
 ---
 
 * Email: i@xuemengyao.com
