@@ -1,10 +1,10 @@
-title: Researcher
-url: "http://ankitsultana.me"
-baseurl: "/researcher"
+title: blog of xuemengyao
+url: "http://xuemengyao.com"
+baseurl: "/x"
 
 markdown: kramdown
 
-tracking_id: #
+tracking_id: UA-82676305-4
 
 sass:
     style: compressed
